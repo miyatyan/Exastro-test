@@ -1,0 +1,14 @@
+
+
+(1) curl -OL https://github.com/exastro-suite/it-automation/releases/download/v1.10.1_tag/exastro-it-automation-1.10.1.tar.gz
+
+(2) tar zxf exastro-it-automation-1.10.1.tar.gz
+
+(3) cd it-automation-1.10.1_tag/ita_install_package/install_scripts
+
+(4) アンサーファイル編集
+
+(5) sh ita_installer.sh
+
+
+
